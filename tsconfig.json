@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "esnext", // or "nodenext"
+    "target": "esnext"
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
