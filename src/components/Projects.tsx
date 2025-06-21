@@ -11,16 +11,16 @@ const Projects = () => {
     {
       title: "Portofolio Web",
       description:
-        "A personal portfolio website showcasing projects and skills.",
+        "A personal website where I showcase my work, skills, and background. It reflects my design taste, built with React and Vite, and styled for both light and dark themes.",
       techstack: ["React", "Vite", "Tailwind CSS", "TypeScript"],
-      image: "src/assets/porto.png",
+      image: "public/porto.png",
       live: "https://your-portfolio.netlify.app",
       github: "https://github.com/yourusername/portfolio-web",
     },
     {
       title: "Fundlytics - Expense Tracker",
       description:
-        "A full-stack expense tracker app to manage and visualize spending.",
+        "A full-stack app I built to track my personal spending habits. It helps visualize expenses with charts, supports login, and runs inside Docker with a PostgreSQL backend.",
       techstack: [
         "React",
         "Vite",
@@ -30,39 +30,39 @@ const Projects = () => {
         "Tailwind CSS",
         "TypeScript",
       ],
-      image: "src/assets/fundlytics.png",
+      image: "public/fundlytics.png",
       live: "https://fundlytics.tail740950.ts.net/",
     },
     {
       title: "IntraDIKTI",
       description:
-        "HRIS platform for Sekjen DIKTI to manage employee data and leave approvals.",
+        "An internal HR system developed for Sekjen DIKTI to manage employee records, leave approvals, and organizational structure — all wrapped in a simple, clean, and mobile-friendly interface.",
       techstack: ["Next.js", "Tailwind CSS", "TypeScript"],
-      image: "src/assets/intraDikti.png",
+      image: "public/intraDikti.png",
       live: "https://intradikti.app",
     },
     {
       title: "Himakom Web",
       description:
-        "Landing page for HIMAKOM UGM, built to represent the organization's profile and activities.",
+        "Landing page for HIMAKOM UGM — designed to introduce the organization, showcase its programs, and connect with students through a fast, responsive, and visually engaging web presence.",
       techstack: ["Next.js", "Tailwind CSS", "TypeScript"],
-      image: "src/assets/himakom.png",
+      image: "public/himakom.png",
       live: "https://himakom.ugm.ac.id/main/",
     },
     {
       title: "Pemira Himasta Web",
       description:
-        "Official landing page for Festival Gadjah Mada, featuring event, guest star, and ticket information",
-      techstack: ["Next.js", "Tailwind CSS", "TypeScript"],
-      image: "src/assets/pemira.png",
+        "A simple but impactful website built for Pemira Himasta 2023 to share event info, candidate bios, and voting guides — encouraging active participation in student democracy.",
+      techstack: ["Next.js", "Tailwind CSS", "TypeScript", "Firebase"],
+      image: "public/pemira.png",
       github: "https://github.com/AhmadSPriaji/pemira-himasta-23",
     },
     {
       title: "Tanahku App",
       description:
-        "A mobile app that provides soil classification and information based on user location or input.",
+        "A mobile app that helps users identify and classify soil types — useful for farming, research, or education. It combines geolocation with local inputs for relevant info.",
       techstack: ["React Native", "Tailwind CSS", "TypeScript"],
-      image: "src/assets/tanahku.png",
+      image: "public/tanahku.png",
       github: "https://github.com/MusyafaRT/tanahku-app",
     },
   ];

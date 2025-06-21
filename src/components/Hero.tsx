@@ -228,7 +228,7 @@ const Hero = () => {
             </motion.button>
 
             <motion.a
-              href="src/assets/CV_RonggoTM_Updated.pdf"
+              href="public/CV_RonggoTM_Updated.pdf"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05, y: -2 }}

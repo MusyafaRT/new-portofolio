@@ -30,7 +30,7 @@ const About = () => {
             >
               <div className="relative w-90 h-90 mx-auto md:mx-0 rounded-full shadow-2xl border-5 border-cyan-300 dark:border-orange-400 overflow-hidden">
                 <img
-                  src="src/assets/photo.jpeg"
+                  src="public/photo.jpeg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
