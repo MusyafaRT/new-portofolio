@@ -13,7 +13,7 @@ const Projects = () => {
       description:
         "A personal website where I showcase my work, skills, and background. It reflects my design taste, built with React and Vite, and styled for both light and dark themes.",
       techstack: ["React", "Vite", "Tailwind CSS", "TypeScript"],
-      image: "public/porto.png",
+      image: "/porto.png",
       live: "https://your-portfolio.netlify.app",
       github: "https://github.com/yourusername/portfolio-web",
     },
@@ -30,7 +30,7 @@ const Projects = () => {
         "Tailwind CSS",
         "TypeScript",
       ],
-      image: "public/fundlytics.png",
+      image: "/fundlytics.png",
       live: "https://fundlytics.tail740950.ts.net/",
     },
     {
@@ -38,7 +38,7 @@ const Projects = () => {
       description:
         "An internal HR system developed for Sekjen DIKTI to manage employee records, leave approvals, and organizational structure — all wrapped in a simple, clean, and mobile-friendly interface.",
       techstack: ["Next.js", "Tailwind CSS", "TypeScript"],
-      image: "public/intraDikti.png",
+      image: "/intraDikti.png",
       live: "https://intradikti.app",
     },
     {
@@ -46,7 +46,7 @@ const Projects = () => {
       description:
         "Landing page for HIMAKOM UGM — designed to introduce the organization, showcase its programs, and connect with students through a fast, responsive, and visually engaging web presence.",
       techstack: ["Next.js", "Tailwind CSS", "TypeScript"],
-      image: "public/himakom.png",
+      image: "/himakom.png",
       live: "https://himakom.ugm.ac.id/main/",
     },
     {
@@ -54,7 +54,7 @@ const Projects = () => {
       description:
         "A simple but impactful website built for Pemira Himasta 2023 to share event info, candidate bios, and voting guides — encouraging active participation in student democracy.",
       techstack: ["Next.js", "Tailwind CSS", "TypeScript", "Firebase"],
-      image: "public/pemira.png",
+      image: "/pemira.png",
       github: "https://github.com/AhmadSPriaji/pemira-himasta-23",
     },
     {
@@ -62,7 +62,7 @@ const Projects = () => {
       description:
         "A mobile app that helps users identify and classify soil types — useful for farming, research, or education. It combines geolocation with local inputs for relevant info.",
       techstack: ["React Native", "Tailwind CSS", "TypeScript"],
-      image: "public/tanahku.png",
+      image: "/tanahku.png",
       github: "https://github.com/MusyafaRT/tanahku-app",
     },
   ];
